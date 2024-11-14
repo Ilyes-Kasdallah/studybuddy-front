@@ -1,0 +1,7 @@
+@import "node_modules/dhtmlx-scheduler/codebase/sources/dhtmlxscheduler.css";
+:host {
+   display: block;
+   position: relative;
+   height: 100%;
+   width: 100%;
+}
